@@ -1,3 +1,5 @@
+// Pokemon url "https://pokeapi.co/api/v2/pokemon?limit=100"
+
 import React, { useState, useEffect } from 'react';
 
 const PokemonApp = () => {
